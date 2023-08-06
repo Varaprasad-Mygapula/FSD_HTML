@@ -1,0 +1,290 @@
+		*{
+			margin: 0px;
+			padding: 0px;
+			font-family: arial,sans-serif;
+		}
+		.main{
+			height: 1100px;
+		}
+		.logo{
+			background-color: lightgray;
+			background-image: url('./images/logo.jpg');
+			height: 100%;
+			background-repeat: no-repeat;
+		}
+		.title{
+			height: 950px;
+			width: 600px;
+			background-color: white;
+			font-size: 45px;
+			color: blue;
+			font-family: arial;
+			text-align: center;
+			padding-top: 150px;
+			float: right;
+			margin-right: 200px;
+		}
+		.btn1{
+			font-size: 30px;
+			padding: 20px;
+			margin-top: 100px;
+			background-color: blue;
+			border-radius: 15px;
+			color: white;
+		}
+		.table{
+			width: 100%;
+			padding: 75px;
+			padding-left: 300px;
+			padding-right: 300px;
+			font-size: ;
+			align-content: center;
+		}
+		.desc{
+			font-size: 75px;
+			color: blue;
+			font-family: sans-serif;
+			text-align: center;
+			padding-top: 35px;
+			margin-top: 0px;
+		}
+		.desc1{
+			text-align: center;
+			font-style: italic;
+			font-size: 28px;
+			font-weight: bold;
+			margin-top: 0px;
+		}
+		.img{
+			height: 80px;
+			width: 80px;
+		}
+		.th1{
+			color: blue;
+			font-size: 40px;
+		}
+
+		.t1{
+			padding: 50px;
+			font-size: 25px;
+			font-style: italic;
+		}
+
+		.host{
+			text-align: center;
+			position: relative;
+		}
+		.host1{
+			align-content: center;
+			padding-bottom: 200px;
+		}
+		.host2{
+			position: absolute;
+			top: 200px;
+			left: 250px;
+			bottom: 0px;
+			background-color: lightgray;
+			color: blue;
+			font-size: 40px;
+			text-align: left;
+			width: 600px;
+			padding: 50px;
+		}
+		.hostsub1{
+			color: black;
+			font-size: 30px;
+		}
+		.hostsub2{
+			margin-top: 50px;
+			color: white;
+			font-size: 30px;
+			border-radius: 15px;
+			padding: 20px;
+			background-color: blue;
+			border-color: blue;
+		}
+		.more{
+			color: blue;
+			width: 100%;
+			font-size: 45px;
+			padding: 30px 250px;
+			align-content: center;
+		}
+		.more2{
+			color: black;
+			font-size: 30px;
+			padding-left: 175px;
+		}
+		.more3{
+			background-color: blue;
+			color: white;
+			padding: 10px 30px;
+			font-size: 25px;
+			margin-top: 50px;
+			border-radius: 15px;
+		}
+		.more4{
+		}
+		.table2{
+			align-content: center;
+			background-color: lightgray;
+			font-size: 25px;
+			padding: 0px 20px;
+		}
+		.tbl1{
+			color: blue;
+			font-size: 45px;
+		}
+		.tbl2{
+			padding-right: 25px;
+		}
+		.pos{
+			background-color: lightgray;
+			align-content: center;
+			text-align: center;
+			position: relative;
+		}
+		.pos2{
+			padding: 300px 0px 50px 0px;
+		}
+		.pos1a{
+			background-color: white;
+			position: absolute;
+			top: 75px;
+			left: 200px;
+			height: 400px;
+			width: 350px;
+		}
+		.pos1b{
+			background-color: white;
+			position: absolute;
+			top: 75px;
+			left: 600px;
+			height: 400px;
+			width: 350px;
+		}
+		.pos1c{
+			background-color: white;
+			position: absolute;
+			top: 525px;
+			left: 200px;
+			height: 450px;
+			width: 350px;
+		}		
+		.pos1d{
+			background-color: white;
+			position: absolute;
+			top: 525px;
+			left: 600px;
+			height: 450px;
+			width: 350px;
+		}
+		.pos3{
+			color: blue;
+			font-size: 80px;
+			font-weight: bold;
+			margin: 0px;
+			padding-top: 50px;
+		}
+		.pos4{
+			font-size: 25px;
+			padding: 0px 25px;
+			padding-bottom: 20px;
+		}
+		.pos5{
+			color: black;
+			padding-top: 30px;
+			font-size: 20px;
+			font-weight: bold;
+		}
+		.pr{
+			background-color: lightgray;
+			height: 300px;
+		}
+		.pr1{
+			position: relative;
+			background-color: lightgray;
+			width: 100%;
+			height: 550px;
+		}
+		.pr2{
+			height: 500px;
+			background-color: blue;
+			width: 350px;
+			margin-left: 200px;
+			float: left;
+			color: lightblue;
+			font-size: 40px;
+			padding: 0px 18px;
+			font-weight: bold;
+		}
+		.pr3{
+			margin-left: 35px;
+			background-color: white;
+			width: 350px;
+			height: 500px;
+			float: left;
+			text-align: center;
+			font-size: 25px;
+		}
+		.pr4{
+			position: absolute;
+			left: 1000px;
+			background-color: white;
+			width: 350px;
+			height: 500px;
+			text-align: center;
+			font-size: 25px;
+		}
+		.pr5{
+			position: absolute;
+			left: 1375px;
+			background-color: white;
+			width: 375px;
+			height: 500px;
+			text-align: center;
+			font-size: 25px;
+		}
+		.pr6{
+			color: blue;
+			font-size: 70px;
+			margin: 0px;
+		}
+		.pr7{
+			font size: 50px;
+			background-color: lightgray;
+			padding: 20px 45px;
+			border-radius: 15px;
+			border: 2px solid lightgray;
+		}
+		.contact{
+			padding: 100px 400px;
+			font-size: 30px;
+		}
+		.ctable{
+			width: 100%;
+			font-size: ;
+			border: 10px;
+			align-content: center;
+			background-color: lightgray;
+		}
+		.sub{
+			color: white;
+			background-color: black;
+			font size: 50px;
+			padding: 20px 210px;
+			border: 2px solid  black;
+		}
+		.subname{
+			size: 30px;
+			width: 450px;
+			height: 50px;
+		}
+		.footer{
+			background-color: black;
+			width: 100%;
+			color: white;
+			font-size: 15px;
+			text-align: center;
+			height: 300px;
+		}
